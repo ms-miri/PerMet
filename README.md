@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/PerMet_logo-01-01.svg" alt="PerMet Logo">
+  <img src="docs/PerMet_logo.svg" alt="PerMet Logo">
 </p>
 
 # PerMet: A Large-Scale Metaphor-Annotated Corpus for Persian
