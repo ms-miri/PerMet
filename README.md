@@ -8,7 +8,7 @@
 [![Format: CoNLL-U Plus](https://img.shields.io/badge/format-CoNLL--U%20Plus-blue)](https://universaldependencies.org/ext-format.html)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-> **Note:** This repository is currently being updated for the LREC 2026 camera-ready version. The files currently visible are pre-release versions and may be updated shortly.
+> **Note:** This repository is currently being updated for the LREC 2026 camera-ready version. The files currently visible are pre-release versions; please be aware that certain annotations are undergoing correction for the official first release.
 
 PerMet is a large-scale and register-diverse metaphor-annotated corpus for Persian developed to support corpus-linguistic and NLP research on metaphor. The corpus is annotated following the [Metaphor Identification Procedure Vrije Universiteit (MIPVU)](https://benjamins.com/catalog/celcr.14), with adaptations for Persian. 
 
