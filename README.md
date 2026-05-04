@@ -55,6 +55,10 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 
 If you use PerMet in your research, please cite:
 
+> Miri, M. S. (2026). Introducing PerMet 1.0: A Metaphor-Annotated Corpus for Persian. In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 4835–4845). European Language Resources Association (ELRA). https://doi.org/10.63317/26xmdq7f998f.
+
+### BibTeX
+
 ```bibtex
 @inproceedings{miri-2026-introducing,
   title = {Introducing PerMet 1.0: A Metaphor-Annotated Corpus for Persian},
