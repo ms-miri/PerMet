@@ -8,7 +8,7 @@
 [![Format: CoNLL-U Plus](https://img.shields.io/badge/format-CoNLL--U%20Plus-blue)](https://universaldependencies.org/ext-format.html)
 [![DOI](https://img.shields.io/badge/DOI-10.63317%2F26xmdq7f998f-blue)](https://doi.org/10.63317/26xmdq7f998f)
 
-> **⚠️ Note:** The corpus is being finalized and files are under correction. You may use the data, but please note that segmentation, sentence numbering, and POS/lemma tagging (particularly for social media) are currently being updated to fix existing errors.
+> **⚠️ Note:** The corpus is being finalized and files are undergoing correction. You may use the data, but please note that some non-MRW tags, such as POS/lemma/MWE tags (particularly for the social media subcorpus), are being updated to fix existing errors.
 
 PerMet is register-diverse metaphor-annotated corpus for Persian developed to support corpus-linguistic and NLP research on metaphor. The corpus is annotated following the [Metaphor Identification Procedure Vrije Universiteit (MIPVU)](https://benjamins.com/catalog/celcr.14), with adaptations for Persian. 
 
