@@ -29,8 +29,8 @@ PerMet is register-diverse metaphor-annotated corpus for Persian developed to su
 ```
 PerMet/
 ├── data/
-│   ├── PerMet_v1.0.zip           # Compressed archive (v1.0)
-│   └── PerMet_v1.0.tar.gz        # Compressed archive (v1.0)
+│   ├── PerMet - InitRel.zip       # Compressed archive (initial release)
+│   └── PerMet - InitRel.gz        # Compressed archive (initial release)
 │       # Archives include 5 registers: academic, fiction, news, social_media, spoken
 ├── docs/
 │   ├── PerMet_logo.svg           # Corpus logo
